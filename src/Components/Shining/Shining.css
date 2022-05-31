@@ -1,0 +1,13 @@
+.shining_img {
+    width: 100%;
+    max-width: 400px;
+    margin-left: 10%;
+}
+@media screen and (max-width:768px) {
+    .shining_img {
+        width: 100%;
+    }
+}
+.shining_title{
+    text-align: center;
+}

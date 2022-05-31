@@ -1,0 +1,17 @@
+
+.ban{
+    top:1px;
+    background-color: rgb(40, 204, 223);
+    display: flex;
+    justify-content: center;
+    
+
+}
+.ban li{
+    padding: 0 20px;
+    
+}
+.ban a {
+    color: rgb(244, 248, 248);
+
+}
